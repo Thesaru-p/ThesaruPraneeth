@@ -28,7 +28,9 @@ I'm an undergraduate at the University of Moratuwa currently exploring the inter
 
 
 ### 🐍 My GitHub Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/Thesaru-p/Thesaru-p/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <img src="https://github.com/Thesaru-p/Thesaru-p/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
+</div>
 ### 📊 GitHub Stats
 ![Thesaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesaru-p&show_icons=true&theme=radical)
