@@ -40,5 +40,3 @@ I'm an undergraduate at the University of Moratuwa currently exploring the inter
 ### 📊 GitHub Stats
 
 ![Thesaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesaru-p&show_icons=true&theme=radical)
-### 📊 GitHub Stats
-![Thesaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thesaru-p&show_icons=true&theme=radical)
